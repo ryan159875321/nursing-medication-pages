@@ -1,12 +1,12 @@
 :root {
   color-scheme: light;
-  --nhs-blue: #005eb8;
-  --nhs-dark-blue: #003087;
-  --nhs-green: #007f3b;
-  --ink: #17252a;
-  --muted: #4f5f63;
-  --border: #d8dde0;
-  --soft: #f3f6f7;
+  --nhs-blue: #073763;
+  --nhs-dark-blue: #052744;
+  --nhs-green: #0ea7a5;
+  --ink: #14232b;
+  --muted: #5a6b73;
+  --border: #d3e0e5;
+  --soft: #f4f8fa;
   --warning: #fff4e5;
   --warning-border: #f0b429;
 }

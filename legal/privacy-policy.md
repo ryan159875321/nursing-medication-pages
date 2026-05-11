@@ -2,7 +2,7 @@
 
 Last updated: 11 May 2026
 
-Nursing Medication is a medication calculation revision app.
+MedMath is a medication calculation revision app.
 
 ## Data We Collect
 

@@ -2,7 +2,7 @@
 
 Last updated: 11 May 2026
 
-Nursing Medication is provided for education and revision.
+MedMath is provided for education and revision.
 
 The app must not be used as a clinical reference for real patient care, prescribing, dispensing, administration, or medicines management decisions.
 
