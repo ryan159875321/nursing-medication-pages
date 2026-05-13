@@ -10,4 +10,4 @@ Question content should be reviewed before commercial release. Users remain resp
 
 We may update, remove, or change content and app features over time.
 
-Contact: replace-before-launch@example.com
+Contact: support@medmathtrainer.com

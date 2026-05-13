@@ -1,6 +1,6 @@
 # Support
 
-For support, contact: replace-before-launch@example.com.
+For support, contact: support@medmathtrainer.com.
 
 Include:
 

@@ -31,8 +31,8 @@ The app is for education and revision only. It is not a prescribing, dispensing,
 
 ## Data Deletion
 
-Users can request account and progress deletion by contacting: replace-before-launch@example.com.
+Users can request account and progress deletion by contacting: support@medmathtrainer.com.
 
 ## Contact
 
-replace-before-launch@example.com
+support@medmathtrainer.com

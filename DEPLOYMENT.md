@@ -1,6 +1,6 @@
 # GitHub Pages Deployment
 
-This folder is ready to publish as a free GitHub Pages site.
+This repository is ready to publish as a free GitHub Pages site for MedMath Trainer.
 
 ## Cheapest first step
 
@@ -8,38 +8,38 @@ This folder is ready to publish as a free GitHub Pages site.
 2. In the GitHub repository, open **Settings > Pages**.
 3. Set **Source** to **Deploy from a branch**.
 4. Choose the default branch, usually `main`.
-5. Choose the `/docs` folder.
+5. Choose the repository root folder.
 6. Save.
 
 GitHub will publish the site at a URL like:
 
 ```text
-https://<github-username>.github.io/nursing-medication-app/
+https://ryan159875321.github.io/nursing-medication-pages/
 ```
 
 Use these app metadata URLs once the site is live:
 
 ```text
-Support URL: https://<github-username>.github.io/nursing-medication-app/support.html
-Privacy Policy URL: https://<github-username>.github.io/nursing-medication-app/privacy.html
-Terms URL: https://<github-username>.github.io/nursing-medication-app/terms.html
+Support URL: https://ryan159875321.github.io/nursing-medication-pages/support.html
+Privacy Policy URL: https://ryan159875321.github.io/nursing-medication-pages/privacy.html
+Terms URL: https://ryan159875321.github.io/nursing-medication-pages/terms.html
 ```
 
 Update `app.json` with those URLs before store submission.
 
 ## Before public launch
 
-- Replace every `replace-before-launch@example.com` placeholder with a real support email.
+- Confirm `support@medmathtrainer.com` forwards correctly through Cloudflare Email Routing.
 - Review the privacy policy and terms for the final data model.
 - Get clinical/educational review of question content and explanations.
 - Consider legal review before commercial release.
 
 ## Later custom domain
 
-When you buy a domain, add a `CNAME` file in this folder containing the domain:
+To use `medmathtrainer.com` for these pages later, add a `CNAME` file in this repository containing the domain:
 
 ```text
-nursingmedication.co.uk
+medmathtrainer.com
 ```
 
-Then configure DNS with your domain provider to point the domain at GitHub Pages.
+Then configure DNS in Cloudflare to point the domain at GitHub Pages.
